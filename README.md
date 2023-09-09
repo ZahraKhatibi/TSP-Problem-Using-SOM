@@ -1,5 +1,7 @@
 # Self-Organizing Map for the Traveling Salesman Problem (TSP)
 
+![](pic.png)
+
 ## Overview
 
 This project implements a Self-Organizing Map (SOM) to solve the Traveling Salesman Problem (TSP). SOM is an unsupervised machine learning technique used for clustering and dimensionality reduction. In this case, it's adapted to find an approximate solution to TSP.
