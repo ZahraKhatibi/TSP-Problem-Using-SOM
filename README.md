@@ -1,4 +1,4 @@
-# Self-Organizing Map for the Traveling Salesman Problem (TSP)
+## Self-Organizing Map for the Traveling Salesman Problem (TSP)
 
 ![](pic.png)
 
